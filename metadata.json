@@ -1,0 +1,7 @@
+{
+  "name": "WebTalk AI",
+  "description": "Have real-time voice conversations about any website using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
